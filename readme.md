@@ -1,4 +1,4 @@
-#Welcome to my github!
+# Welcome to my github!
 
 ## About me
 
@@ -12,4 +12,6 @@ Currently, I´m visiting the "neuefische" Bootcamp. And I already learned:
 - CSS
 - git and github
 
-![alt me with cute elephants](IMG_2353.jpeg)
+![IMG_2353](https://user-images.githubusercontent.com/123068226/214816498-6791d5f8-813f-446f-968a-df15d37148cd.jpeg)
+
+*Me with some cute elephants* :elephant:
